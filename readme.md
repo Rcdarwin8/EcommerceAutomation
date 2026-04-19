@@ -27,8 +27,7 @@ An automated end-to-end test suite built with **Selenium WebDriver** and **Node.
 - Self-contained **dark-themed HTML report** auto-opened in Chrome after each run
 - Fullscreen screenshot viewer built into the report
 - Graceful error handling — a single test failure never blocks the rest of the suite
-- Responsive-design validation (desktop 1366×768 and mobile 320×568)
-
+  
 ---
 
 ## 🛠 Tech Stack
@@ -39,18 +38,6 @@ An automated end-to-end test suite built with **Selenium WebDriver** and **Node.
 | Selenium WebDriver | ^4.35.0 | Browser automation |
 | ChromeDriver | ^139.0.2 | Chrome bridge |
 | open | ^10.2.0 | Auto-open report in browser |
-
----
-
-## 📁 Project Structure
-
-```
-├── final.js            # Main test runner — all 12 test case functions
-├── generateHtml.js     # HTML report builder with embedded styles & JS
-├── package.json        # Project metadata and dependencies
-├── screenshots/        # Auto-created; stores PNG captures per test run
-└── test_report.html    # Auto-generated after each run
-```
 
 ---
 
