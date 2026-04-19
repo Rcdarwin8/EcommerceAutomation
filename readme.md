@@ -5,7 +5,9 @@
 ![alt text](https://img.shields.io/badge/Pass_Rate-100%25-brightgreen)
 ![alt text](https://img.shields.io/badge/License-MIT-blue.svg)
 
-An automated end-to-end test suite built with **Selenium WebDriver** and **Node.js** for the [TesterBud Dummy E-Commerce](https://testerbud.com/practice-ecommerece-website/) practice website. The suite covers functional, boundary, and regression scenarios and generates a self-contained HTML report with screenshots on every run.
+An automated end-to-end test suite built with **Selenium WebDriver** and **Node.js** for the <br>
+[TesterBud Dummy E-Commerce](https://testerbud.com/practice-ecommerece-website/) practice website. 
+The suite covers functional, boundary, and regression scenarios and generates a self-contained HTML report with screenshots on every run.
 
 ---
 
